@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/decen/static/css/main.981f7211.chunk.css",
+    "main.js": "/decen/static/js/main.0a5741d3.chunk.js",
+    "main.js.map": "/decen/static/js/main.0a5741d3.chunk.js.map",
+    "runtime-main.js": "/decen/static/js/runtime-main.3d9b832e.js",
+    "runtime-main.js.map": "/decen/static/js/runtime-main.3d9b832e.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/decen/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.7f352f2c.chunk.js": "/decen/static/js/2.7f352f2c.chunk.js",
+    "static/js/2.7f352f2c.chunk.js.map": "/decen/static/js/2.7f352f2c.chunk.js.map",
+    "index.html": "/decen/index.html",
+    "precache-manifest.366905ef783663046b0f65b86cac29f1.js": "/decen/precache-manifest.366905ef783663046b0f65b86cac29f1.js",
+    "service-worker.js": "/decen/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/decen/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/decen/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/decen/static/media/persik.4e1ec840.png"
+  }
+}
